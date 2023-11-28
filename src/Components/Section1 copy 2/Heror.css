@@ -1,0 +1,48 @@
+.heror-txt h1 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.heror-txt p {
+  margin-top: 25px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+.heror-input input {
+  font-size: 20px;
+  width: 670px;
+  height: 57px;
+  border-radius: 10px;
+  background: rgba(27, 41, 89, 0.4);
+  border: none;
+  outline: none;
+  color: white;
+}
+.heror-input button {
+  width: 271px;
+  height: 56px;
+  box-shadow: 3px 2px 13px 0px rgba(0, 0, 0, 0.07),
+    -2px -2px 8px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background: #044076;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+}
+.heror {
+  margin-top: 120px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.heror-input {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}

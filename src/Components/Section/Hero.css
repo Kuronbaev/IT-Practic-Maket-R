@@ -1,0 +1,28 @@
+.hero-txt h1 {
+  margin-top: 250px;
+  color: #fff;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+}
+.hero-txt p {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: -25px;
+  margin-top: 40px;
+}
+.hero {
+  padding-top: 200px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+.hero img {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  width: 2000px;
+  object-fit: cover;
+}

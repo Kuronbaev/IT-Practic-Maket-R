@@ -1,0 +1,62 @@
+.onas-nav a {
+  color: #a5a5a5;
+  font-size: 16px;
+  font-weight: 400;
+}
+.onas-nav a span {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+.onas-nav {
+  margin-top: 100px;
+}
+.onas h1 {
+  margin-top: 100px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 60px; /* 166.667% */
+}
+.onas p {
+  margin: 0 auto;
+  color: #fff;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 25px; /* 156.25% */
+  text-align: center;
+  width: 850px;
+  margin-top: 20px;
+}
+
+.onas-image img {
+  width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.onas-image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+.onas-serf img {
+  width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.onas-serf {
+  margin-top: 200px;
+}
+.stat-h1 {
+  color: white;
+  text-align: center;
+}
